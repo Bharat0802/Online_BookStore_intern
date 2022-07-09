@@ -1,0 +1,81 @@
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\appsettings.json
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.exe
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.deps.json
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.runtimeconfig.json
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.runtimeconfig.dev.json
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.pdb
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.AssemblyReference.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.AssemblyInfoInputs.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.AssemblyInfo.cs
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.CoreCompileInputs.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\scopedcss\bundle\BookStore.Api.styles.css
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\staticwebassets\BookStore.Api.StaticWebAssets.Manifest.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.RazorTargetAssemblyInfo.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.CopyComplete
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.dll
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\refint\BookStore.Api.dll
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.pdb
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.genruntimeconfig.cache
+D:\InternshipProject\BookStore\BookStore.Api\obj\Debug\net5.0\ref\BookStore.Api.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Models.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Models.pdb
+D:\InternshipProject\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\appsettings.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.exe
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.deps.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.runtimeconfig.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.runtimeconfig.dev.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Api.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Models.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Models.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.AssemblyReference.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.AssemblyInfoInputs.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.AssemblyInfo.cs
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.CoreCompileInputs.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\scopedcss\bundle\BookStore.Api.styles.css
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\staticwebassets\BookStore.Api.StaticWebAssets.Manifest.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.RazorTargetAssemblyInfo.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.csproj.CopyComplete
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\refint\BookStore.Api.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\BookStore.Api.genruntimeconfig.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Api\obj\Debug\net5.0\ref\BookStore.Api.dll

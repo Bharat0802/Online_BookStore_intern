@@ -1,0 +1,30 @@
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\InternshipProject\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\InternshipProject\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\InternshipProject\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\InternshipProject\Book Store\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
